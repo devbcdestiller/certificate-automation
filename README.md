@@ -13,7 +13,7 @@ Once downloaded go to the directory or `cd certificate-automation` when you want
 
 ## Quick Start
 - Copy your custom certificate template, text file containing names of the recipients and your font file in TTF format to the `source` folder.  
-- Then run `python main.py -n your_names.txt -c your_cert.png -y yPos -f your_font.ttf`
+- Then run `python main.py -n your_names.txt -c your_cert.png -y yPos -f your_font.ttf`.  
 You can adjust the vertical position of the text by using `-y yPos` where yPos is the y position in pixels.
 
 ## Commands
